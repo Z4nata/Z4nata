@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "preferences": {
+    "destination": {
+      "value": "shorts-tiktok-reels",
+      "confirmed_in": [
+        "hangover-promo"
+      ],
+      "updated_at": "2026-10-08T06:43:18.445Z"
+    },
+    "aspect": {
+      "value": "1080x1920",
+      "confirmed_in": [
+        "hangover-promo"
+      ],
+      "updated_at": "2026-10-08T06:43:18.502Z"
+    },
+    "language": {
+      "value": "pt-BR",
+      "confirmed_in": [
+        "hangover-promo"
+      ],
+      "updated_at": "2026-10-08T06:43:18.552Z"
+    },
+    "flow": {
+      "value": "automation",
+      "confirmed_in": [
+        "hangover-promo"
+      ],
+      "updated_at": "2026-10-08T06:43:18.616Z"
+    },
+    "storyboard": {
+      "value": "no",
+      "confirmed_in": [
+        "hangover-promo"
+      ],
+      "updated_at": "2026-10-08T06:43:18.669Z"
+    },
+    "voice": {
+      "value": "kokoro-pm_alex",
+      "confirmed_in": [
+        "hangover-promo"
+      ],
+      "updated_at": "2026-10-08T06:43:18.722Z"
+    }
+  },
+  "sightings": {}
+}
